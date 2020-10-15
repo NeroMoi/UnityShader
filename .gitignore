@@ -1,0 +1,34 @@
+#ignore the Assets
+/Assets
+#ingore the BulletXNA
+/BulletXNA
+#ignore the Editor
+/Editor
+#ignore the library
+/Library
+#ignore the material
+/material
+#ignore theMMD4Mecanim
+/MMD4Mecanim
+#ignore the Model
+/Model
+#ignore the Packages
+/Packages
+#ignore the plugins
+/Plugins
+#ignore the Prefab
+/Prefab
+#ignore the ProjectSettings
+/ProjectSettings
+#ignore the scene
+/sceen
+#ignore the texture
+/texture
+#ignore the UserSettings
+/UserSettings
+#ignore all of the .meta
+*.meta
+#ignore all .meta files in the shader/directory and any of its subdirectories
+shader/**/*.meta
+#ignore all .meta files in the script/directory and any of its subdirectries
+script/**/*.meta
